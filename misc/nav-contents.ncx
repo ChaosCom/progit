@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns:mbp="http://mobipocket.com/ns/mbp" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+  <head>
+    <meta content="pro_git-documentation-2012-01-21" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pro Git</text>
+  </docTitle>
+  <docAuthor>
+    <text>Scott Chacon</text>
+  </docAuthor>
+  <navMap>
+    <navPoint playOrder="1" class="periodical" id="periodical">
+      <mbp:meta-img src="" name="mastheadImage"/>
+      <navLabel><text>Table of Contents</text></navLabel>
+      <content src="../html/contents.html"/>
+      <navPoint playOrder="2" class="section" id="item-000">
+        <navLabel><text>Frontmatter</text></navLabel>
+        <content src="../html/section.html"/>
+        <navPoint playOrder="3" class="article" id="item-000000">
+          <navLabel><text>About</text></navLabel>
+          <content src="../html/000.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="4" class="section" id="item-001">
+        <navLabel><text>Getting Started</text></navLabel>
+        <content src="../html/section-1.html"/>
+        <navPoint playOrder="5" class="article" id="item-001000">
+          <navLabel><text>Getting Started</text></navLabel>
+          <content src="../html/1.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="6" class="article" id="item-001001">
+          <navLabel><text>About Version Control</text></navLabel>
+          <content src="../html/001.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="7" class="article" id="item-001002">
+          <navLabel><text>A Short History of Git</text></navLabel>
+          <content src="../html/002.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="8" class="article" id="item-001003">
+          <navLabel><text>Git Basics</text></navLabel>
+          <content src="../html/003.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="9" class="article" id="item-001004">
+          <navLabel><text>Installing Git</text></navLabel>
+          <content src="../html/004.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="10" class="article" id="item-001005">
+          <navLabel><text>First-Time Git Setup</text></navLabel>
+          <content src="../html/005.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="11" class="article" id="item-001006">
+          <navLabel><text>Getting Help</text></navLabel>
+          <content src="../html/006.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="12" class="article" id="item-001007">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/007.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="13" class="section" id="item-002">
+        <navLabel><text>Git Basics</text></navLabel>
+        <content src="../html/section-2.html"/>
+        <navPoint playOrder="14" class="article" id="item-002000">
+          <navLabel><text>Git Basics</text></navLabel>
+          <content src="../html/2.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="15" class="article" id="item-002001">
+          <navLabel><text>Getting a Git Repository</text></navLabel>
+          <content src="../html/3.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="16" class="article" id="item-002002">
+          <navLabel><text>Recording Changes to the Repository</text></navLabel>
+          <content src="../html/4.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="17" class="article" id="item-002003">
+          <navLabel><text>Viewing the Commit History</text></navLabel>
+          <content src="../html/5.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="18" class="article" id="item-002004">
+          <navLabel><text>Undoing Things</text></navLabel>
+          <content src="../html/6.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="19" class="article" id="item-002005">
+          <navLabel><text>Working with Remotes</text></navLabel>
+          <content src="../html/7.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="20" class="article" id="item-002006">
+          <navLabel><text>Tagging</text></navLabel>
+          <content src="../html/8.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="21" class="article" id="item-002007">
+          <navLabel><text>Tips and Tricks</text></navLabel>
+          <content src="../html/9.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="22" class="article" id="item-002008">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/008.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="23" class="section" id="item-003">
+        <navLabel><text>Git Branching</text></navLabel>
+        <content src="../html/section-3.html"/>
+        <navPoint playOrder="24" class="article" id="item-003000">
+          <navLabel><text>Git Branching</text></navLabel>
+          <content src="../html/10.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="25" class="article" id="item-003001">
+          <navLabel><text>What a Branch Is</text></navLabel>
+          <content src="../html/11.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="26" class="article" id="item-003002">
+          <navLabel><text>Basic Branching and Merging</text></navLabel>
+          <content src="../html/12.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="27" class="article" id="item-003003">
+          <navLabel><text>Branch Management</text></navLabel>
+          <content src="../html/13.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="28" class="article" id="item-003004">
+          <navLabel><text>Branching Workflows</text></navLabel>
+          <content src="../html/14.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="29" class="article" id="item-003005">
+          <navLabel><text>Remote Branches</text></navLabel>
+          <content src="../html/15.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="30" class="article" id="item-003006">
+          <navLabel><text>Rebasing</text></navLabel>
+          <content src="../html/16.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="31" class="article" id="item-003007">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/17.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="32" class="section" id="item-004">
+        <navLabel><text>Git on the Server</text></navLabel>
+        <content src="../html/section-4.html"/>
+        <navPoint playOrder="33" class="article" id="item-004000">
+          <navLabel><text>Git on the Server</text></navLabel>
+          <content src="../html/18.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="34" class="article" id="item-004001">
+          <navLabel><text>The Protocols</text></navLabel>
+          <content src="../html/19.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="35" class="article" id="item-004002">
+          <navLabel><text>Getting Git on a Server</text></navLabel>
+          <content src="../html/20.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="36" class="article" id="item-004003">
+          <navLabel><text>Generating Your SSH Public Key</text></navLabel>
+          <content src="../html/21.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="37" class="article" id="item-004004">
+          <navLabel><text>Setting Up the Server</text></navLabel>
+          <content src="../html/22.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="38" class="article" id="item-004005">
+          <navLabel><text>Public Access</text></navLabel>
+          <content src="../html/23.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="39" class="article" id="item-004006">
+          <navLabel><text>GitWeb</text></navLabel>
+          <content src="../html/24.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="40" class="article" id="item-004007">
+          <navLabel><text>Gitosis</text></navLabel>
+          <content src="../html/25.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="41" class="article" id="item-004008">
+          <navLabel><text>Gitolite</text></navLabel>
+          <content src="../html/26.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="42" class="article" id="item-004009">
+          <navLabel><text>Git Daemon</text></navLabel>
+          <content src="../html/009.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="43" class="article" id="item-004010">
+          <navLabel><text>Hosted Git</text></navLabel>
+          <content src="../html/010.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="44" class="article" id="item-004011">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/011.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="45" class="section" id="item-005">
+        <navLabel><text>Distributed Git</text></navLabel>
+        <content src="../html/section-5.html"/>
+        <navPoint playOrder="46" class="article" id="item-005000">
+          <navLabel><text>Distributed Git</text></navLabel>
+          <content src="../html/27.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="47" class="article" id="item-005001">
+          <navLabel><text>Distributed Workflows</text></navLabel>
+          <content src="../html/28.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="48" class="article" id="item-005002">
+          <navLabel><text>Contributing to a Project</text></navLabel>
+          <content src="../html/29.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="49" class="article" id="item-005003">
+          <navLabel><text>Maintaining a Project</text></navLabel>
+          <content src="../html/30.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="50" class="article" id="item-005004">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/31.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="51" class="section" id="item-006">
+        <navLabel><text>Git Tools</text></navLabel>
+        <content src="../html/section-6.html"/>
+        <navPoint playOrder="52" class="article" id="item-006000">
+          <navLabel><text>Git Tools</text></navLabel>
+          <content src="../html/32.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="53" class="article" id="item-006001">
+          <navLabel><text>Revision Selection</text></navLabel>
+          <content src="../html/33.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="54" class="article" id="item-006002">
+          <navLabel><text>Interactive Staging</text></navLabel>
+          <content src="../html/34.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="55" class="article" id="item-006003">
+          <navLabel><text>Stashing</text></navLabel>
+          <content src="../html/35.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="56" class="article" id="item-006004">
+          <navLabel><text>Rewriting History</text></navLabel>
+          <content src="../html/36.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="57" class="article" id="item-006005">
+          <navLabel><text>Debugging with Git</text></navLabel>
+          <content src="../html/37.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="58" class="article" id="item-006006">
+          <navLabel><text>Submodules</text></navLabel>
+          <content src="../html/38.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="59" class="article" id="item-006007">
+          <navLabel><text>Subtree Merging</text></navLabel>
+          <content src="../html/39.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="60" class="article" id="item-006008">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/40.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="61" class="section" id="item-007">
+        <navLabel><text>Customizing Git</text></navLabel>
+        <content src="../html/section-7.html"/>
+        <navPoint playOrder="62" class="article" id="item-007000">
+          <navLabel><text>Customizing Git</text></navLabel>
+          <content src="../html/41.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="63" class="article" id="item-007001">
+          <navLabel><text>Git Configuration</text></navLabel>
+          <content src="../html/42.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="64" class="article" id="item-007002">
+          <navLabel><text>Git Attributes</text></navLabel>
+          <content src="../html/43.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="65" class="article" id="item-007003">
+          <navLabel><text>Git Hooks</text></navLabel>
+          <content src="../html/44.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="66" class="article" id="item-007004">
+          <navLabel><text>An Example Git-Enforced Policy</text></navLabel>
+          <content src="../html/45.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="67" class="article" id="item-007005">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/46.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="68" class="section" id="item-008">
+        <navLabel><text>Git and Other Systems</text></navLabel>
+        <content src="../html/section-8.html"/>
+        <navPoint playOrder="69" class="article" id="item-008000">
+          <navLabel><text>Git and Other Systems</text></navLabel>
+          <content src="../html/47.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="70" class="article" id="item-008001">
+          <navLabel><text>Git and Subversion</text></navLabel>
+          <content src="../html/48.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="71" class="article" id="item-008002">
+          <navLabel><text>Migrating to Git</text></navLabel>
+          <content src="../html/49.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="72" class="article" id="item-008003">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/50.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+      <navPoint playOrder="73" class="section" id="item-009">
+        <navLabel><text>Git Internals</text></navLabel>
+        <content src="../html/section-9.html"/>
+        <navPoint playOrder="74" class="article" id="item-009000">
+          <navLabel><text>Git Internals</text></navLabel>
+          <content src="../html/51.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="75" class="article" id="item-009001">
+          <navLabel><text>Plumbing and Porcelain</text></navLabel>
+          <content src="../html/52.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="76" class="article" id="item-009002">
+          <navLabel><text>Git Objects</text></navLabel>
+          <content src="../html/53.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="77" class="article" id="item-009003">
+          <navLabel><text>Git References</text></navLabel>
+          <content src="../html/54.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="78" class="article" id="item-009004">
+          <navLabel><text>Packfiles</text></navLabel>
+          <content src="../html/55.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="79" class="article" id="item-009005">
+          <navLabel><text>The Refspec</text></navLabel>
+          <content src="../html/56.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="80" class="article" id="item-009006">
+          <navLabel><text>Transfer Protocols</text></navLabel>
+          <content src="../html/57.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="81" class="article" id="item-009007">
+          <navLabel><text>Maintenance and Data Recovery</text></navLabel>
+          <content src="../html/58.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+        <navPoint playOrder="82" class="article" id="item-009008">
+          <navLabel><text>Summary</text></navLabel>
+          <content src="../html/59.html"/>
+          <mbp:meta name="description"></mbp:meta>
+          <mbp:meta name="author"></mbp:meta>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
